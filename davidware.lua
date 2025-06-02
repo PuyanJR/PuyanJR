@@ -11,10 +11,6 @@
 
 ]]--
 
-
--- Gui to Lua
--- Version: 3.2
-
 -- Instances:
 
 local ScreenGui = Instance.new("ScreenGui")
@@ -177,13 +173,3 @@ local function RDIOBW_fake_script() -- ScreenGui.drag
 	end)
 end
 coroutine.wrap(RDIOBW_fake_script)()
-local function EAHXS_fake_script() -- ScreenGui.perm 
-	local script = Instance.new('LocalScript', ScreenGui)
-
-	if game.Players.LocalPlayer.Name == "davidpuiu15" then
-		script.Parent.big.Visible = true
-	else
-		script.Parent.big.Visible = false
-	end
-end
-coroutine.wrap(EAHXS_fake_script)()
