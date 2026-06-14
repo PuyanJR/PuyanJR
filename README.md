@@ -14,7 +14,7 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PuyanJR&theme=transparent&hide_border=true&title_color=0071e3&text_color=6e6e73&icon_color=0071e3)
 
 ### 🌍 Connect with Me
-[![Discord]([https://img.shields.io/badge/discord-214fd9?style=for-the-badge&logo=discord&logoColor=white])](https://discord.com/users/716341537776336956)
+[![Portfolio](https://img.shields.io/badge/discord-214fd9?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/716341537776336956)
 [![Portfolio](https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=Web&logoColor=white)](https://puyanjr.github.io)
 
 <!---
